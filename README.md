@@ -67,4 +67,4 @@ feasto/
 ---
 
 **Created**: February 2026  
-**Designer**: [Your Name/Team]
+**Designer**: [SYED ZUHAIR SHAH]
